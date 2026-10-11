@@ -1,0 +1,57 @@
+{
+  "id": "spoonfed-sugarcube",
+  "name": "Sugarcube",
+  "app": "Spoonfed",
+  "owner": "Astra",
+  "status": "draft",
+  "approved": false,
+  "created": "2026-10-11",
+  "built_with": "OpenAI Codex (GPT-6), 2026-10-11",
+  "generator": "Built-in imagegen; no external paid API or CLI",
+  "provenance": "Original character draft from Astra's saved Sugarcube recipe and hatching brief; one layout correction preserved the character while making the sheet safely sliceable.",
+  "design_source": "Local Spoonfed docs/sugarcube-art-recipe-20261011.json and docs/sugarcube-hatching-20261011.md",
+  "visibility": "private",
+  "scope": "Artwork draft only; not registered, activated, or connected to the app.",
+  "sheet": "sheet-20261011.png",
+  "prompt": "prompt-20261011.md",
+  "size": [
+    256,
+    256
+  ],
+  "moods": [
+    "idle",
+    "blink",
+    "happy",
+    "curious",
+    "worried",
+    "sad",
+    "sick",
+    "alarmed",
+    "sleep"
+  ],
+  "frames": {
+    "idle": "idle-20261011.png",
+    "blink": "blink-20261011.png",
+    "happy": "happy-20261011.png",
+    "curious": "curious-20261011.png",
+    "worried": "worried-20261011.png",
+    "sad": "sad-20261011.png",
+    "sick": "sick-20261011.png",
+    "alarmed": "alarmed-20261011.png",
+    "sleep": "sleep-20261011.png"
+  },
+  "conversion": "Shared alpha-preserving build-desktop-art-20261011.mjs, nearest-neighbor sampling at common scale",
+  "source_sha256": {
+    "alarmed-20261011.png": "1912287205adbcdd22d5e2a9a9f4806c2249b5cc1b797a03208201bcd9b8c43d",
+    "blink-20261011.png": "73b85cb043433246fa387ab9da928470657ce5400a633195d2e143eb639134d2",
+    "curious-20261011.png": "62ea0ac2a165892d664b9f7c1a58581f993911f3587283d0d65725005c381542",
+    "happy-20261011.png": "8814ab93a531605bdc5f18e04d602409c5c1c2867e021a26de9b91f76355f347",
+    "idle-20261011.png": "9d8aee82028876752231f48ad092545086e7106bb50c014c14585db93f17eb01",
+    "prompt-20261011.md": "eeb9a79a1e0efa09b5abc35e88a88a56f2500e432ed645308022a1a72a4df3a1",
+    "sad-20261011.png": "095feb7d4729d118630d295f1af60e7b95a471167ceabd64cb9eeaf9991188c8",
+    "sheet-20261011.png": "fac1f8a6a465d38d5fde90ec963c665b3bd0208a59ad105035c1bfd012f826e5",
+    "sick-20261011.png": "c8b49b131bbecedc0c12bcc02b6d61ff594ca999d14bfb0b25631fc46ce58a5c",
+    "sleep-20261011.png": "0290b36b726026c6eea2b267db6a6078f0940e6f9494db173463cd11744cf16a",
+    "worried-20261011.png": "55835b2d168754dd18593c5aba5dcf91537c463e9535056124624f3fef0d4589"
+  }
+}
