@@ -4,19 +4,20 @@
   "assistant": "OpenAI Codex (GPT-6)",
   "date": "2026-10-11",
   "status": "draft",
-  "desktop_scale": 0.8,
+  "desktop_scale": 0.7,
   "sparkles": false,
   "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
   "art_files": [
-    "desktop-art/spoonfed-sugarcube/idle-20261011.png",
+    "desktop-art/spoonfed-sugarcube/alarmed-20261011.png",
     "desktop-art/spoonfed-sugarcube/blink-20261011.png",
-    "desktop-art/spoonfed-sugarcube/happy-20261011.png",
     "desktop-art/spoonfed-sugarcube/curious-20261011.png",
-    "desktop-art/spoonfed-sugarcube/worried-20261011.png",
+    "desktop-art/spoonfed-sugarcube/happy-20261011.png",
+    "desktop-art/spoonfed-sugarcube/idle-20261011.png",
     "desktop-art/spoonfed-sugarcube/sad-20261011.png",
     "desktop-art/spoonfed-sugarcube/sick-20261011.png",
-    "desktop-art/spoonfed-sugarcube/alarmed-20261011.png",
-    "desktop-art/spoonfed-sugarcube/sleep-20261011.png"
+    "desktop-art/spoonfed-sugarcube/sleep-20261011.png",
+    "desktop-art/spoonfed-sugarcube/worried-20261011.png"
   ],
-  "notes": "Plain white sugar cube, no accessories, Bug height."
+  "notes": "Smaller white sugarcube holding one silver spoon.",
+  "source_sheet": "desktop-art/spoonfed-sugarcube/sheet-20261011.png"
 }
