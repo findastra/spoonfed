@@ -1,0 +1,6 @@
+{
+  "id": "spoonfed-sugarcube",
+  "what": "a tiny friendly sugar-cube creature with short little arms and feet, a clearly square sugar crystal body, holding one miniature spoon in the same hand in every cell, no hat and no lettering",
+  "colours": "frosted sherbet-pink cube, vivid raspberry crystal edges, electric chartreuse spoon, tiny pink blush cheeks",
+  "instructions": "After approval and registration, add id/what/colours to PETS in the Cage generator and use its shared STYLE unchanged. Do not register an active prompt without registered art metadata."
+}

@@ -1,0 +1,25 @@
+{
+  "pet": "Sugarcube",
+  "app": "Spoonfed",
+  "kind": "pet-app",
+  "owner": "Astra",
+  "sprite": "pet-sprite-20261011.json",
+  "job": "Helps choose where to eat by spinning restaurant choices while respecting locked preferences and keeping favorite spots.",
+  "runs_on": "Expo app targeting iOS, Android, and web; currently a local draft with fictional restaurant data.",
+  "entry": "index.ts",
+  "status": "hatching",
+  "published": false,
+  "cage": {
+    "topic": "pet-app",
+    "home": "README.md",
+    "submit": {
+      "date": "2026-10-11",
+      "job": "Helps choose where to eat by spinning restaurant choices while respecting locked preferences and keeping favorite spots.",
+      "status": "hatching",
+      "says": ["A little less deciding. A little more delicious.", "Lock your favorites. I’ll find the surprise.", "One sweet nudge toward dinner."],
+      "audit": { "cadence": "weekly", "subject": "Spoonfed’s restaurant discovery, saved spots, and sample-data labels", "needs": "approval for one paid nine-mood Sugarcube sheet; a live restaurant provider before real recommendations" }
+    }
+  },
+  "built_with": "OpenAI Codex (GPT-6), 2026-10-11",
+  "audit": { "cadence": "weekly", "subject": "Spoonfed’s restaurant discovery, saved spots, and sample-data labels", "needs": "approval for one paid nine-mood Sugarcube sheet; a live restaurant provider before real recommendations" }
+}

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Spoonfed",
+    "slug": "spoonfed",
+    "version": "0.1.0",
+    "scheme": "spoonfed",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "foregroundImage": "./assets/icon.png", "backgroundColor": "#F3542C" } },
+    "web": { "favicon": "./assets/favicon.png", "name": "Spoonfed", "shortName": "Spoonfed", "description": "A little less deciding. A lot more eating.", "themeColor": "#F3542C", "backgroundColor": "#F9F7F1" },
+    "plugins": [["expo-sensors", { "motionPermission": "Allow Spoonfed to spin your restaurant choices when you shake your phone." }]]
+  }
+}

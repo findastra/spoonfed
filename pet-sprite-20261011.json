@@ -1,0 +1,10 @@
+{
+  "id": "spoonfed-sugarcube",
+  "name": "Sugarcube",
+  "status": "awaiting-art-approval",
+  "size": [256, 256],
+  "asset_date": "20261011",
+  "required_moods": ["idle", "blink", "happy", "curious", "worried", "sad", "sick", "alarmed", "sleep"],
+  "frames": {},
+  "note": "Preparation manifest only. No sprite has been generated or approved. Fill frames with real local files after the shared Cage converter and visual review pass."
+}
