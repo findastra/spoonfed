@@ -6,7 +6,7 @@
   "status": "draft",
   "desktop_scale": 0.7,
   "sparkles": false,
-  "renderer": "astras-pet-apps/scripts/desktop-pets-20261011.cs",
+  "renderer": "astras-pet-os/scripts/desktop-pets-20261011.cs",
   "art_files": [
     "desktop-art/spoonfed-sugarcube/alarmed-20261011.png",
     "desktop-art/spoonfed-sugarcube/blink-20261011.png",
